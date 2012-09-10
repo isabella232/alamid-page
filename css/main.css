@@ -1,5 +1,39 @@
+#page {
+	width: 600px;
+	margin: 0 auto;
+	font-family: Georgia, serif;
+}
 
+header img {
+	display: block;
+	margin: 0 auto;
+}
 
+header h1 {
+	text-align: center;
+	margin-bottom: -50px;
+}
+
+header h2 {
+	font-family: Georgia, serif;
+	margin-top: 0px;
+	color: #4CA1C0;
+	font-size: 2em;
+	text-align: center;
+	font-style: italic;
+	font-weight: normal;
+}
+
+p {
+	line-height: 1.6em;
+	color: #245463;
+    font-size: 1.1em;
+	text-align: justify;
+}
+
+a {
+    color: #4CA1C0;
+}
 
 
 
