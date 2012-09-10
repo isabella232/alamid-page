@@ -1,0 +1,9 @@
+# humanstxt.org/
+
+# CONTRIBUTOR
+# You may add your name here after you improved the documentation :)
+
+    Johannes Ewald <johannes.ewald@peerigon.com>
+	Michael Jaser <michael.jaser@peerigon.com>
+	Paul Torka <paul.torka@peerigon.com>
+	Stephan Batteiger <stephan.batteiger@peerigon.com>
